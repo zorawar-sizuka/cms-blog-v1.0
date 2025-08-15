@@ -29,7 +29,7 @@ export default async function HomePage() {
     <div className={`min-h-screen bg-slate-50 text-slate-800 ${inter.variable} ${lora.variable}`}>
       <div className="max-w-4xl mx-auto p-4 sm:p-8">
         <header className="py-12 text-center border-b border-slate-200">
-          <h1 className="text-5xl md:text-6xl font-lora text-slate-900">The Sonu's Blog</h1>
+          <h1 className="text-5xl md:text-6xl font-lora text-slate-900">The Sonu&apos;s Blog</h1>
           <p className="text-lg text-slate-500 mt-4 font-inter">
             Exploring modern web technologies and ideas.
           </p>
